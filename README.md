@@ -3,7 +3,7 @@ This is my first GUI proyect. A Mandelbrot-like fractal generator, defined by th
 
 **Requirements**
 
-This program uses the cupy libraary, which needs CUDA to work. Make sure to follow the instructions in https://docs.cupy.dev/en/stable/install.html if you don't have it installed before you install the packages in the requirements.txt file
+This program uses the cupy library, which needs CUDA to work. Make sure to follow the instructions in https://docs.cupy.dev/en/stable/install.html if you don't have it installed before you install the packages in the requirements.txt file
 
 **Function**
 
